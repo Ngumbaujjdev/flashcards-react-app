@@ -1,5 +1,3 @@
-Here's a detailed README for your Flash Cards app in a copy-paste format:
-
 ```markdown
 # Flash Cards React App
 
